@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Karpathy 编码准则",
+    "description": "提供按需加载的 karpathy-guidelines 技能：先想再写、保持简单、外科手术式修改、以可验证目标推进。会话技能目录里始终只有技能名和一段说明，完整正文只在模型或 /karpathy-guidelines 消息触发加载时进入上下文；关闭插件后条目与插件行都会消失。"
+  }
+}

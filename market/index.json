@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Karpathy guidelines",
+    "zh": "Karpathy 编码准则"
+  },
+  "description": {
+    "en": "Karpathy-inspired coding guidelines packaged as an on-demand DeepSeek Harness skill.",
+    "zh": "把 Karpathy 编码准则打包成按需加载的 DeepSeek Harness 技能。"
+  },
+  "metadata": {
+    "categories": {
+      "development": {
+        "title": {
+          "en": "Development",
+          "zh": "开发"
+        }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-karpathy-guidelines",
+      "title": {
+        "en": "Karpathy guidelines",
+        "zh": "Karpathy 编码准则"
+      },
+      "description": {
+        "en": "Adds the on-demand karpathy-guidelines skill: think before coding, keep it simple, make surgical changes, and work against verifiable success criteria.",
+        "zh": "提供按需加载的 karpathy-guidelines 技能：先想再写、保持简单、外科手术式修改、以可验证目标推进。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDM2IDM2IiBmaWxsPSJub25lIj4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIxMi41IiBzdHJva2U9IiM0RDZCRkUiIHN0cm9rZS13aWR0aD0iMi4yIi8+CiAgPHBhdGggZD0iTTE4IDcuNSBMMjIgMTggTDE4IDI4LjUgTDE0IDE4IFoiIGZpbGw9IiM0RDZCRkUiLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIxLjMiIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc+Cg==",
+      "author": "forrestchang",
+      "homepage": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "metadata": {
+        "category": "development",
+        "keywords": [
+          "karpathy",
+          "guidelines",
+          "best-practices",
+          "code-review"
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1794978027,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": "^0.2.2-rc.3"
+          }
+        }
+      ]
+    }
+  ]
+}

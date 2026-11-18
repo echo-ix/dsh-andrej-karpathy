@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Karpathy guidelines",
+    "description": "Adds the on-demand karpathy-guidelines skill: think before coding, keep the solution simple, make surgical changes, and work against verifiable success criteria. The skill's name and description always sit in the session catalog; the full instructions enter the model context only when the model or a /karpathy-guidelines message loads them, and disabling the bundle removes both the entry and the row."
+  }
+}
