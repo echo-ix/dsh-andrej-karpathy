@@ -31,7 +31,7 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDM2IDM2IiBmaWxsPSJub25lIj4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIxMi41IiBzdHJva2U9IiM0RDZCRkUiIHN0cm9rZS13aWR0aD0iMi4yIi8+CiAgPHBhdGggZD0iTTE4IDcuNSBMMjIgMTggTDE4IDI4LjUgTDE0IDE4IFoiIGZpbGw9IiM0RDZCRkUiLz4KICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE4IiByPSIxLjMiIGZpbGw9IiNGRkZGRkYiLz4KPC9zdmc+Cg==",
       "author": "forrestchang",
-      "homepage": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "homepage": "https://github.com/echo-ix/dsh-andrej-karpathy",
       "metadata": {
         "category": "development",
         "keywords": [

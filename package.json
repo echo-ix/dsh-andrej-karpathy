@@ -4,6 +4,10 @@
   "description": "Karpathy-inspired coding guidelines for DeepSeek Harness: think before coding, keep it simple, make surgical changes, and execute against verifiable goals.",
   "license": "MIT",
   "author": "forrestchang",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echo-ix/dsh-andrej-karpathy.git"
+  },
   "type": "module",
   "exports": {
     ".": "./index.js",
@@ -37,5 +41,5 @@
     "best-practices",
     "code-review"
   ],
-  "homepage": "https://github.com/multica-ai/andrej-karpathy-skills"
+  "homepage": "https://github.com/echo-ix/dsh-andrej-karpathy"
 }

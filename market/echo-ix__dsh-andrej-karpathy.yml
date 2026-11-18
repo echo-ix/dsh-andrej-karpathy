@@ -1,8 +1,5 @@
-# Template: after pushing this package to a public GitHub repository, replace
-# OWNER and add this file to awesome-dsh-plugin as
-# data/plugins/OWNER__dsh-karpathy-guidelines.yml.
-url: https://github.com/OWNER/dsh-karpathy-guidelines
-name: OWNER/dsh-karpathy-guidelines
+url: https://github.com/echo-ix/dsh-andrej-karpathy
+name: echo-ix/dsh-andrej-karpathy
 category: skill
 description:
   en: Adds an on-demand coding-guidelines skill covering assumptions and tradeoffs, simplicity, surgical changes, and verifiable goals, adapted from Andrej Karpathy's notes on LLM coding pitfalls.

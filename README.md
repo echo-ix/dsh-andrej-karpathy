@@ -19,8 +19,7 @@ The skill covers:
   and search for **Karpathy guidelines**. On hosts without that tab, use
   **Plugins** → **Discover** with a configured plugin index instead.
 - **Local directory** — open **Plugins** → **Add plugin** and choose this directory.
-- **Command line** — `dsh plugin --profile <profile> add github:OWNER/dsh-karpathy-guidelines`
-  once the repository is published.
+- **Command line** — `dsh plugin --profile <profile> add github:echo-ix/dsh-andrej-karpathy`
 
 Installing enables the bundle, which inserts the `karpathy-guidelines` row. The
 skill joins the session skill catalog right away, and an open session receives a
